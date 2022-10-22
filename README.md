@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexkxxxx
+- 👀 I’m interested in Software Development And Simple Code Creation
+- 🌱 I’m currently learning Coding C#
+- 📫 How to reach me DM me on discord alexkx#8385
